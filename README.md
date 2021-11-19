@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Developing dumb apps for personal improvement
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Anything to help teach me
-- 📫 How to reach me ... Starry#8552(discord)
+- 📫 How to reach me ... Ino#8552(discord)
 
 <!---
 Lofi9/Lofi9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
