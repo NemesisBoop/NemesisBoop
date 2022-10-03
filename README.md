@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ino
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++
 - https://en.pronounspage.page/@fangsy
 
 <!---
