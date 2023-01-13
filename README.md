@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ino
-- 🌱 I’m currently working on RealmsBot
+- ADHD fuelled coding nightmares
+- I do webserver stuff too...
 - https://en.pronounspage.page/@fangsy
 
 <!---
