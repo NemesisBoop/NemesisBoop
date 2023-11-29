@@ -8,6 +8,8 @@
   💻 Elixir • C++
   🎮 Music • Games • Manga • Code
 </pre>
+<br><br>
+<!--- gif idk --->
 </div>
 
 
