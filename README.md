@@ -12,7 +12,7 @@
 <img src="https://github.com/NemesisBoop/NemesisBoop/blob/main/d5irlh1-13e6f101-6d07-4b1c-ae4b-0819e8953e20.gif" height="40">
 <br><br><br>
 
-[![](https://img.shields.io/badge/ko-fi)](https://ko-fi.com/nemesisboop)
+[![](https://img.shields.io/badge/kofi-fi)](https://ko-fi.com/nemesisboop)
 </div>
 
 
