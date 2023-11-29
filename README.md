@@ -9,7 +9,7 @@
   🎮 Music • Games • Manga • Code
 </pre>
 <br><br>
-<!--- gif idk --->
+<img src="https://github.com/NemesisBoop/NemesisBoop/blob/main/d5irlh1-13e6f101-6d07-4b1c-ae4b-0819e8953e20.gif" height="40">
 </div>
 
 
