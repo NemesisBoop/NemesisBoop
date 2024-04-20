@@ -4,8 +4,8 @@
 <br><br>
 <pre>
   💼 Part-time Butcher • Nightshift Manager
-  📖 TBD • Mechanics or CS
-  💻 Elixir • C++
+  📖 TBD • Engineer or CS 
+  💻 Elixir • Python
   🎮 Music • Games • Manga • Code
 </pre>
 <br>
