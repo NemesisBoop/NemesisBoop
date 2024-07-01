@@ -3,8 +3,8 @@
 <img src="https://github.com/NemesisBoop/NemesisBoop/blob/main/call-of-the-night-yofukashi-no-uta.gif" width="25%" align="right" />
 <br><br>
 <pre>
-  💼 Part-time Butcher • Nightshift Manager
-  📖 TBD • Engineer or CS 
+  💼 Car Detailing • Nightshift Manager
+  📖 TBD • Linguistics
   💻 Elixir • Python
   🎮 Music • Games • Manga • Code
 </pre>
