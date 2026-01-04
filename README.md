@@ -13,7 +13,7 @@
 <br><br>
 
 [![](https://img.shields.io/badge/kofi-808080)](https://ko-fi.com/nemesisboop)
-[![](https://img.shields.io/badge/discord-5865F2)]([https://discord.gg/rxwuxuBCGV]))
+[![](https://img.shields.io/badge/discord-5865F2)]([https://discord.gg/rxwuxuBCGV])
 </div>
 
 
